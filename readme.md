@@ -24,13 +24,20 @@ for that reason you might find this project almost simmilar to that website but 
 
 While this project generally works well on Mozilla Firefox browsers, there might be some compatibility issues on other browsers. If you encounter problems, consider using Firefox for the best experience.
 
+## Installation
+
+1. Enter 'rokto_db' as the database name in phpMyAdmin.
+2. Import 'rokto_db.sql'.
+3. Explore `db-connect.php` to configure `$dbname`, `$dbserver`, `$dbuser`, and `$dbpwd` if needed.
+
+
 ## Here are some sample screenshots of the project
  - Screenshot 1<br>
- <img src="screenshot/1.png" alt="Screenshot 1" width="800" height="1380">
+ <img src="screenshots/1.png" alt="Screenshot 1" width="800" height="1380">
 
 - Screenshot 2
-<img src="screenshot/2.png" alt="Screenshot 2" width="800" height="655">
+<img src="screenshots/2.png" alt="Screenshot 2" width="800" height="655">
 
 - Screenshot 3
-<img src="screenshot/3.png" alt="Screenshot 3" width="800" height="466">
+<img src="screenshots/3.png" alt="Screenshot 3" width="800" height="466">
 
