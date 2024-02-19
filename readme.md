@@ -41,3 +41,5 @@ While this project generally works well on Mozilla Firefox browsers, there might
 - Screenshot 3
 <img src="screenshots/3.png" alt="Screenshot 3" width="800" height="466">
 
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NahidHassanOfficial/BloodDonorManagement)
