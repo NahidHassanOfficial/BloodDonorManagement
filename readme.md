@@ -33,13 +33,16 @@ While this project generally works well on Mozilla Firefox browsers, there might
 
 ## Here are some sample screenshots of the project
  - Screenshot 1<br>
- <img src="screenshots/1.png" alt="Screenshot 1" width="800" height="1380">
+![image](https://github.com/user-attachments/assets/24ce2d8d-587f-4553-995e-94cfad9820e4)
+
 
 - Screenshot 2
-<img src="screenshots/2.png" alt="Screenshot 2" width="800" height="655">
+![image](https://github.com/user-attachments/assets/62f4a7ed-fd9f-4a0d-8769-48f3916f3ff2)
+
 
 - Screenshot 3
-<img src="screenshots/3.png" alt="Screenshot 3" width="800" height="466">
+![image](https://github.com/user-attachments/assets/229955df-afdd-4e7c-a8fa-bd338c09f172)
+
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NahidHassanOfficial/BloodDonorManagement)
